@@ -1,0 +1,10 @@
+/system
+/user_guide
+.editorconfig
+.htaccess
+composer.json
+contributing.md
+index.php
+license.txt
+readme.rst
+/admin/system
